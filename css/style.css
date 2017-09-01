@@ -6,7 +6,7 @@ body, html {
 
 .backgroundimg {
   
-  background-image: url('https://s-media-cache-ak0.pinimg.com/originals/53/80/d3/5380d3ea23363da76732a7a327bb0dda.jpg');
+  background-image: url('http://spaziomidia.com.br/wp-content/uploads/2014/12/Background-madeira-Spazio-midia.jpg');
   
   height: 100%;
   
@@ -15,7 +15,7 @@ body, html {
   background-size: cover;
   /* Add position: relative to enable absolutely positioned elements inside the image (place text) */
   position: relative;
-  color: brown;
+  color: white;
   font-family: "Courier New", Courier, monospace;
   /* Set the font-size to 25 pixels */
   font-size: 25px;
