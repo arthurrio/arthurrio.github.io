@@ -38,8 +38,8 @@ body, html {
 /* Position text in the middle */
 .middle {
   position: absolute;
-  top: 30%;
-  left: 40%;
+  top: 40%;
+  left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
 }
