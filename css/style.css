@@ -43,12 +43,41 @@ body, html {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+  
+  .middle p {
+    font-size: 18px;
+    font-style: italic;
+  }
+ 
 
-.middle p {
-  font-size: 18px;
-  font-style: italic;
+  .middle a{
+    color: white;
+    font-size: 35px;
+  }
+
+.fa-github:hover{
+  color:black;
 }
 
+.fa-codepen:hover{
+  color:black;
+}
+
+.fa-linkedin:hover{
+  color:#2F4AD7;
+}
+
+.fa-twitter:hover{
+  color:lightskyblue;
+}
+
+.fa-google-plus:hover{
+  color:red;
+}
+
+.fa-facebook:hover{
+  color:blue;
+}
 /* Style the <hr> element */
 hr {
   margin: auto;
