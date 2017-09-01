@@ -26,7 +26,7 @@ var  finalCountDown = setInterval(function() {
     //alert('Minutos: ' + minutos);
     var segundos = (((dataResultado%(1000*60*60*24))%(1000*60*60))%(1000*60))/1000;
     //alert(Math.floor(dias) + ' dias ' + Math.floor(horas) + ' horas ' + Math.floor(minutos) + ' minutos ' + Math.floor(segundos) + ' segundos ');
-    document.getElementById(idName).innerText = Math.floor(dias) + ' dias ' + Math.floor(horas) + ' horas ' + Math.floor(minutos) + ' minutos ' + Math.floor(segundos) + ' segundos ';
+    document.getElementById(idName).innerText = Math.floor(dias) + 'd ' + Math.floor(horas) + 'h ' + Math.floor(minutos) + 'm ' + Math.floor(segundos) + 's';
 
     
 
